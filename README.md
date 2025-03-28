@@ -45,7 +45,7 @@ We created **interactive Power BI dashboards** to present key findings:
 ## 📌 How to Use This Repository
 ### 1️⃣ Clone the repository:
 ```bash
- git clone https://github.com/musfiqurrabeg/Blinkit-Sales-Analysis-Dashboard.git
+https://github.com/musfiqurrabeg/Blinkit-Sales-Analysis-Dashboard.git
 ```
 
 ### 2️⃣ Open the Dataset:
