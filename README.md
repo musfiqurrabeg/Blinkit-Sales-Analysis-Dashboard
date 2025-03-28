@@ -1,4 +1,4 @@
-# BlinkIT Grocery Sales Analysis 📊
+# Blinkit Grocery Sales Analysis 📊
 
 ![Screenshot_1](https://github.com/user-attachments/assets/604a7963-5c27-46f2-a349-c9f7ccb8dfdd)
 
